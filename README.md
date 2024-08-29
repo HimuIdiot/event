@@ -1,3 +1,2 @@
 # dsa_event
-''' HIMU world '''
-Author: Himasn
+** Author: Himu **
